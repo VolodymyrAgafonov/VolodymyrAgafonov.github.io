@@ -32,7 +32,7 @@ Důležitost: Hodnota výstupního výkonu hodnotí efektivitu zařízení a jeh
 
 Definice: Účinnost, v kontextu přeměny energie, je míra toho, jak dobře zařízení nebo systém převádí vstupní výkon na užitečný výkon.
 
-Vzorec: 
+#### Vzorec: 
 
 $$
 \eta = \frac{P_p}{P_v}

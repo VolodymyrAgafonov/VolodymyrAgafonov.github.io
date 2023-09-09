@@ -4,8 +4,6 @@ Ohmův zákon je základní fyzikální princip, který popisuje vztah mezi nap�
 
 #### Vzorec:
 
-Ohmův zákon je vyjádřen jednoduchým matematickým vzorcem: 
-
 $$
 U = IR
 $$

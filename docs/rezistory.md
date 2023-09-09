@@ -1,7 +1,5 @@
 # Rezistory
 Rezistory jsou elektrické součástky, které omezují nebo regulují tok elektrického proudu v elektrickém obvodu.
-#### Symbol:
-V elektrických schématech jsou rezistory značeny symboly ve tvaru zvlněné čáry nebo obdélníku s dvěma svorkami.
 
 #### Jednotky:
 Odpor se měří v ohmech (Ω).
@@ -22,7 +20,7 @@ Rezistory se používají v obvodech k omezení proudu, dělení napětí, úpra
 
 #### Ohmův zákon:
 
-Je zásadní pro porozumění vztahu mezi napětím (V), proudem (I) a odporem (R) v obvodu (V = I * R).
+Je zásadní pro porozumění vztahu mezi napětím (V), proudem (I) a odporem (R) v obvodu ($V = IR$).
 
 #### Závislost na teplotě:
 
