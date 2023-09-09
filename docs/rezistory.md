@@ -20,7 +20,7 @@ Rezistory se používají v obvodech k omezení proudu, dělení napětí, úpra
 
 #### Ohmův zákon:
 
-Je zásadní pro porozumění vztahu mezi napětím (V), proudem (I) a odporem (R) v obvodu ($V = IR$).
+Je zásadní pro porozumění vztahu mezi napětím ($V$), proudem ($I$) a odporem ($R$) v obvodu ($V = IR$).
 
 #### Závislost na teplotě:
 
