@@ -1,40 +1,40 @@
 # Rezistory
 Rezistory jsou elektrické součástky, které omezují nebo regulují tok elektrického proudu v elektrickém obvodu.
 
-#### Jednotky:
+#### Jednotky
 Odpor se měří v ohmech (Ω).
 
 
-#### Tolerance:
+#### Tolerance
 Rezistory mají určenou toleranci, která určuje povolené odchylky od stanovené hodnoty odporu (například 5%, 1%).
 
-#### Hodnocení výkonu:
+#### Hodnocení výkonu
 Udává, kolik tepla může rezistor odvádět, aniž by se poškodil, a měří se v wattech (W).
 
-#### Typy:
+#### Typy
 
 Existuje několik typů rezistorů, včetně uhlíkových, filmových, cívkových a proměnných (potenciometry).
 Aplikace:
 
 Rezistory se používají v obvodech k omezení proudu, dělení napětí, úpravě signálu a dalším.
 
-#### Ohmův zákon:
+#### Ohmův zákon
 
 Je zásadní pro porozumění vztahu mezi napětím ($V$), proudem ($I$) a odporem ($R$) v obvodu ($V = IR$).
 
-#### Závislost na teplotě:
+#### Závislost na teplotě
 
 Některé rezistory mohou měnit hodnotu odporu s teplotou, což je důležité zvážit v určitých aplikacích.
 
-#### Kódování barev:
+#### Kódování barev
 
 Mnoho rezistorů je kódováno barvami na těle rezistoru, což indikuje hodnotu odporu.
 
-#### Účel:
+#### Účel
 
 Jsou základními součástmi elektroniky, které slouží k řízení a tvarování elektrických proudů v různých elektronických zařízeních a obvodech.
 
-## Sériové spojení rezistorů:
+## Sériové spojení rezistorů
 
 Při sériovém spojení rezistorů jsou rezistory spojeny za sebou v jediné cestě, vytvářející lineární řetězec.
 

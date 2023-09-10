@@ -1,11 +1,11 @@
 # Kirchhoffovy zákony
 
-1. ## Kirchhoffův zákon o proudu (KCL):
+1. ## Kirchhoffův zákon o proudu (KCL)
 
 Proud, který vstupuje do uzlu, je stejný jako proud, který z něj vychází.
 Celkový přitékající proud = Celkový odtékající proud.
 
-2. ## Kirchhoffův zákon o napětí (KVL):
+2. ## Kirchhoffův zákon o napětí (KVL)
 
 V uzavřené smyčce v obvodu je součet zdrojů napětí roven součtu poklesů napětí.
 Celkové napětí stoupá = Celkové napětí klesá.

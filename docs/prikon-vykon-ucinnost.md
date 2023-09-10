@@ -32,7 +32,7 @@ Důležitost: Hodnota výstupního výkonu hodnotí efektivitu zařízení a jeh
 
 Definice: Účinnost, v kontextu přeměny energie, je míra toho, jak dobře zařízení nebo systém převádí vstupní výkon na užitečný výkon.
 
-#### Vzorec: 
+#### Vzorec
 
 $$
 \eta = \frac{P_p}{P_v}
@@ -42,7 +42,7 @@ Hodnota: Účinnost se vyjadřuje jako procento, kde vyšší hodnoty indikují 
 
 Důležitost: Účinnost je klíčová pro hodnocení efektivity zařízení a systémů. Quantifikuje, jak dobře je vstupní výkon využíván k vytváření užitečného výstupu, s nižšími ztrátami, což značí vyšší účinnost.
 
-## Klíčové body:
+## Klíčové body
 
 Vstupní výkon reprezentuje dodanou elektrickou energii, zatímco výstupní výkon značí užitečnou práci nebo energii vyprodukovanou zařízením.
 
