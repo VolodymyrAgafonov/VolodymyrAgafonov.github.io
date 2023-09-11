@@ -2,6 +2,7 @@ site_name: My Docs
 site_url: https://volodymyragafonov.github.io/
 
 nav:
+  - Úvod: index.md
   - Základy elektrotechniky:
     - Ohmův zákon: ohmuv-zakon.md
     - Kirchoffový zákony: kirchovy-zakony.md

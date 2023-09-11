@@ -1,0 +1,1 @@
+Elektrotechnické dokumenty jsou klíčem k porozumění elektrickým systémům a obvodům. Tyto materiály poskytují znalosti pro studenty i nadšence. Pokud objevíte chybu nebo máte nápad na jejich zlepšení, napište nám na [můj Instagram účet](https://www.instagram.com/volodymyr.ahafonov/)! Prozkoumejte elektrizující svět elektrotechniky!
