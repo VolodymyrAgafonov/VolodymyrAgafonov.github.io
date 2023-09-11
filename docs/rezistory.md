@@ -49,7 +49,7 @@ $$
 3. Rozdělení napětí: **Napětí na každém rezistoru v sériovém spojení se sčítá na celkové napětí aplikované na obvod.**
 
 $$
-V_c = V_1 + \dots + V_n
+U_c = U_1 + \dots + U_n
 $$
 
 4. Konstantní proud: **Protože stejný proud protéká všemi rezistory v sérii, pokud jeden rezistor selže (sepnutí), celý obvod je přerušen.**
