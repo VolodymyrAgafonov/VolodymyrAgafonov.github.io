@@ -4,12 +4,14 @@ site_url: https://volodymyragafonov.github.io/
 nav:
   - Úvod: index.md
   - Základy elektrotechniky:
+    - Pasivní součástky:
+      - Rezistory: rezistory.md
+      - Kondenzátory: kondezatory.md
+      - Cívky: civky.md
     - Ohmův zákon: ohmuv-zakon.md
     - Kirchoffový zákony: kirchovy-zakony.md
-    - Rezistory: rezistory.md
     - Příkon, Výkon a Účinnost: prikon-vykon-ucinnost.md
     - Elektrické zdroje: elektricke-zdroje.md
-    - Kondenzátory: kondezatory.md
 
 
 theme:
